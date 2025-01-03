@@ -1,0 +1,66 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-Wall",
+      "-O2",
+      "-Iinclude",
+      "-o",
+      "./build/neural_net",
+      "src/layer.cpp"
+    ],
+    "directory": "/Users/lorenzobattiston/Programming/projects/neural_net",
+    "file": "/Users/lorenzobattiston/Programming/projects/neural_net/src/layer.cpp",
+    "output": "/Users/lorenzobattiston/Programming/projects/neural_net/build/neural_net"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-Wall",
+      "-O2",
+      "-Iinclude",
+      "-o",
+      "./build/neural_net",
+      "src/main.cpp"
+    ],
+    "directory": "/Users/lorenzobattiston/Programming/projects/neural_net",
+    "file": "/Users/lorenzobattiston/Programming/projects/neural_net/src/main.cpp",
+    "output": "/Users/lorenzobattiston/Programming/projects/neural_net/build/neural_net"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-Wall",
+      "-O2",
+      "-Iinclude",
+      "-o",
+      "./build/neural_net",
+      "src/matrix.cpp"
+    ],
+    "directory": "/Users/lorenzobattiston/Programming/projects/neural_net",
+    "file": "/Users/lorenzobattiston/Programming/projects/neural_net/src/matrix.cpp",
+    "output": "/Users/lorenzobattiston/Programming/projects/neural_net/build/neural_net"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-Wall",
+      "-O2",
+      "-Iinclude",
+      "-o",
+      "./build/neural_net",
+      "src/neural_network.cpp"
+    ],
+    "directory": "/Users/lorenzobattiston/Programming/projects/neural_net",
+    "file": "/Users/lorenzobattiston/Programming/projects/neural_net/src/neural_network.cpp",
+    "output": "/Users/lorenzobattiston/Programming/projects/neural_net/build/neural_net"
+  }
+]
